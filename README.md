@@ -1,3 +1,3 @@
-# Labs DS template
+# FastAPI Practice
 
-[Docs](https://docs.labs.lambdaschool.com/data-science/)
+Documentation: [Docs](https://docs.labs.lambdaschool.com/data-science/)
