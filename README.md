@@ -1,3 +1,3 @@
 # FastAPI Practice
-
-[Documentation](https://docs.labs.lambdaschool.com/data-science/)
+A pratice and learning process using Bloomttech's documentation on how to devolop a FastAPI
+[Documentation](https://bloomtechlabs.gitbook.io/data-science/tech/fastapi)
